@@ -43,10 +43,10 @@ Here's take a quick look:
 
 ---------------------------
 
-## LIVE DEMO
+## LIVE DEMO 🌐 
 
 Here's test yourself:
-- [Click here for image-slider live demo]( https://amnaakhtar1213.github.io/image-slidder/)
+- [Click here for image-slider live demo](https://amnaakhtar1213.github.io/image-slidder/)
 
 ---------------------
 
